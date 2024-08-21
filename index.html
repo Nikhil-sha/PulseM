@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+	<link rel="stylesheet" href="styles/style-main.css">
+	<script src="https://cdn.tailwindcss.com/"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
+</head>
+
+<body>
+	<!-- Container for the entire app -->
+	<div class="min-h-screen bg-gray-100 flex flex-col">
+
+		<!-- Header -->
+		<header class="bg-blue-600 text-white py-4 shadow-md">
+			<div class="container mx-auto flex justify-between items-center px-4">
+				<h1 class="text-2xl font-bold">Pulse<span class="text-yellow-500">M</span></h1>
+				<nav>
+					<ul class="flex space-x-6">
+						<li><a href="/" class="hover:underline flex items-center"><i class="fas fa-home mr-2"></i></a></li>
+						<li><a href="#song-list" class="hover:underline flex items-center"><i class="fas fa-music mr-2"></i></a></li>
+						<li>
+							<div id="account" class="hover:underline flex items-center">
+								<i class="fas fa-user mr-2"></i>
+								<div class="hidden p-4 rounded-lg bg-white text-black text-sm absolute top-11 right-0 z-50 border border-gray-100">
+									<span class="block">Made by <a class="hover:text-blue-500 underline" href="https://github.com/nikhil-sha">Nikhil Sharma</a></span>
+									<hr class="my-2" />
+									<span class="block">Open source</span>
+									<span class="block">Mp3 source: <a class="hover:text-blue-500 underline" href="https://archive.org/">Internet Archive</a></span>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+
+		<!-- Main Content -->
+		<main class="flex-1 container mx-auto px-4 py-6">
+			<div class="flex flex-col md:flex-row gap-4">
+
+				<!-- Main Content Area -->
+				<div class="flex-1 h-fit md:w-1/2 bg-white shadow-lg rounded-lg p-4">
+					<h2 class="text-2xl font-semibold mb-4 border-b border-gray-200 pb-2">Now Playing</h2>
+					<!-- Song Info -->
+					<div class="flex items-center mb-4">
+						<div class="flex-none w-32 h-32 rounded-lg overflow-hidden mr-4 border-2 border-gray-200">
+							<img id="current-song-cover" alt="Album Cover" src="https://picsum.photos/" class="w-full object-cover">
+							<div id="progress" class="transition-all h-full sticky left-0 bottom-0 inset-0 bg-blue-500 bg-opacity-50 backdrop-blur-sm overflow-hidden">
+								<p class="text-sm text-center p-4 text-transparent hover:text-black">Songs are not meant to be skipped…</p>
+							</div>
+						</div>
+						<div>
+							<h3 id="current-song-name" class="text-xl font-bold">…</h3>
+							<p id="current-song-artist" class="text-gray-600">…</p>
+						</div>
+					</div>
+					<!-- Music Player Controls -->
+					<div class="flex items-center justify-between mt-6">
+						<button id="button-previous" class="text-gray-600 hover:text-gray-800">
+							<i class="fas fa-backward fa-lg"></i>
+						</button>
+						<button id="button-play-pause" class="text-gray-600 hover:text-gray-800">
+							<i class="fas fa-play-circle fa-3x"></i>
+						</button>
+						<button id="button-next" class="text-gray-600 hover:text-gray-800">
+							<i class="fas fa-forward fa-lg"></i>
+						</button>
+						<button id="button-shuffle" class="text-gray-600 hover:text-gray-800">
+							<i class="fas fa-random fa-lg"></i>
+						</button>
+						<button id="button-volume" class="text-gray-600 hover:text-gray-800">
+							<i class="fas fa-volume-up fa-lg"></i>
+						</button>
+					</div>
+				</div>
+
+				<!-- Sidebar -->
+				<aside class="w-full md:w-1/2 bg-white shadow-lg rounded-lg p-4">
+					<h2 class="text-xl font-semibold mb-4 border-b border-gray-200 pb-2">Artists</h2>
+					<ul id="artist-list" class="space-y-2">
+						<!-- Artists Will Be Loaded Dynamically -->
+					</ul>
+					<h2 class="text-xl font-semibold mb-4 mt-6 border-b border-gray-200 pb-2">Songs</h2>
+					<ul id="song-list" class="space-y-2">
+						<!-- Songs Will Be Loaded Dynamically -->
+					</ul>
+				</aside>
+			</div>
+		</main>
+	</div>
+
+	<!-- Audio Element -->
+	<audio id="audio" class="hidden" src=""></audio>
+
+	<script src="scripts/main.js"></script>
+</body>
+
+                                              </html>

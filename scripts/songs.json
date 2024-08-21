@@ -1,0 +1,125 @@
+{
+	"songs": {
+		"Coldplay": [
+			{
+				"title": "Hymn For The Weekend",
+				"source": "https://archive.org/download/ColdplayHymnForTheWeekendOfficialVideo/Coldplay%20-%20Hymn%20For%20The%20Weekend%20%28Official%20Video%29.mp3",
+				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKeGQckG7ci5Z85cHWAnFswMg4wZLrsMUG9A&usqp=CAU"
+			}
+		],
+		"Imagine Dragons": [
+			{
+				"title": "Bad Liar",
+				"source": "https://archive.org/download/imaginedragonsmusicalbum/Imagine%20Dragons%20-%20Bad%20Liar.mp3",
+				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLV_utmxu75Zllzhivl2N-J2l9ROWS-_08ew&s"
+			},
+			{
+				"title": "Demons",
+				"source": "https://archive.org/download/imaginedragonsmusicalbum/Imagine%20Dragons%20-%20Demons%20%28Official%20Video%29.mp3",
+				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpeuVcX6Ne8W6QDrHwTeGrOv6S50FC36yYWXb0E459sMyQciurfQP99b4&s=10"
+			},
+			{
+				"title": "Believer",
+				"source": "https://archive.org/download/imaginedragonsmusicalbum/Imagine%20Dragons%20-%20Believer.mp3",
+				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvTOSCg6t8sy6HQ8Q4b5oxMzM4JRgZs4CuWFfnvN_b1c0y3JvJYKnmhFI&s=10"
+			},
+			{
+				"title": "Bones",
+				"source": "https://archive.org/download/imagine-dragons-bones/Imagine%20Dragons%20-%20Bones.mp3",
+				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYnSp5HTYDpL0GygmAi7rBgXaIbK_1O3kn6A&s"
+			},
+			{
+				"title": "Whatever It Takes",
+				"source": "https://archive.org/download/imaginedragonsmusicalbum/imagine%20dragons%20-%20whatever%20it%20takes.mp3",
+				"cover": "https://upload.wikimedia.org/wikipedia/en/2/20/Whatever_It_Takes_Imagine_Dragons.jpg"
+			},
+			{
+				"title": "Sharks",
+				"source": "https://archive.org/download/sharks_202304/Imagine%20Dragons%20-%20Sharks.mp3",
+				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo5SzeSYjCB9FeWhL76SooUz_4tfixB6vqhA&s"
+			}
+		],
+		"Arijit Singh": [
+			{
+				"title": "Janam Janam",
+				"source": "https://archive.org/download/arijitsingh_201912/Janam%20Janam.mp3",
+				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxnbjsM4KuhTm899WcN5EPa7r8PafPJZRmJXAHz3-v5SF78pgZcF8v0Vwd&s=10"
+			},
+			{
+				"title": "Kesariya",
+				"source": "https://archive.org/download/kesariya-brahmastra/Kesariya%20-%20Brahmastra.mp3",
+				"cover": "https://upload.wikimedia.org/wikipedia/en/3/3c/Kesariya_song_cover.jpg"
+			}
+		],
+		"Alan Walker": [
+			{
+				"title": "Darkside",
+				"source": "https://archive.org/download/alanwalkersabrinacarpenterfarrukoonmyway_201907/ALAN%20WALKER/Alan%20Walker%20-%20Darkside.mp3",
+				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtoMbKMf_1hqBNU3EJWKRwUJeWXVqaalPR_hW5X9tP4oLN_W43JtttVOSo&s=10"
+			},
+			{
+				"title": "Faded",
+				"source": "https://archive.org/download/y-2mate.com-alan-walker-faded/y2mate.com%20-%20Alan%20Walker%20%20Faded.mp3",
+				"cover": "https://upload.wikimedia.org/wikipedia/en/d/da/Alan_Walker_-_Faded.png"
+			},
+			{
+				"title": "Lily (ft. Emelie Hollow)",
+				"source": "https://archive.org/download/y-2mate.com-alan-walker-lily-ft-k-391-emelie-hollow-official-lyric-video/y2mate.com%20-%20Alan%20Walker%20%20Lily%20ft%20K391%20%20Emelie%20Hollow%20Official%20Lyric%20Video.mp3",
+				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXR0vck2K5njoe0JJiY0TPsw-5Z8QhscakcNUUZrHs7A0N8oTmFpy1j8&s=10"
+			},
+			{
+				"title": "On My Way",
+				"source": "https://archive.org/download/alanwalkersabrinacarpenterfarrukoonmyway_201907/ALAN%20WALKER/ON%20MY%20WAY%20-%20Alan%20Walker.mp3",
+				"cover": "https://upload.wikimedia.org/wikipedia/en/a/af/Alan_Walker_-_On_My_Way.png"
+			},
+			{
+				"title": "Sing me to sleep",
+				"source": "https://archive.org/download/y-2mate.com-alan-walker-sing-me-to-sleep/y2mate.com%20-%20Alan%20Walker%20%20Sing%20Me%20To%20Sleep.mp3",
+				"cover": "https://upload.wikimedia.org/wikipedia/en/d/d7/Alan_Walker_-_Sing_Me_to_Sleep.png"
+			},
+			{
+				"title": "All Falls Down (ft. Noah Cyrus with Digital Farm Animals)",
+				"source": "https://archive.org/download/y-2mate.com-alan-walker-all-falls-down-feat-noah-cyrus-with-digital-farm-animals/y2mate.com%20-%20Alan%20Walker%20%20All%20Falls%20Down%20feat%20Noah%20Cyrus%20with%20Digital%20Farm%20Animals.mp3",
+				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbVyNWjbP41njeIxjMBoDPgVAW5c0AdneFmQ&s"
+			}
+		],
+		"Taylor Swift": [
+			{
+				"title": "Cruel Summer",
+				"source": "https://archive.org/download/y-2mate.com-taylor-swift-cruel-summer-official-audio/y2mate.com%20-%20Taylor%20Swift%20%20Cruel%20Summer%20Official%20Audio.mp3",
+				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1r0WXAYQOwbRFkHxO1qHYtz8zn85TesQIA&usqp=CAU"
+			}
+		],
+		"Aespa": [
+			{
+				"title": "Life's Too Short",
+				"source": "https://archive.org/download/aespa-lifes-too-short/aespa%20-%20Life%27s%20Too%20Short.mp3",
+				"cover": "https://ia801600.us.archive.org/8/items/aespa-lifes-too-short-english-ver./cover.jpg?cnt=0"
+			},
+			{
+				"title": "Life's Too Short (eng ver.)",
+				"source": "https://archive.org/download/aespa-lifes-too-short-english-ver./01.%20aespa%20-%20Life%E2%80%B2s%20Too%20Short%20%28English%20Ver.%29.mp3",
+				"cover": "https://ia801600.us.archive.org/8/items/aespa-lifes-too-short-english-ver./cover.jpg?cnt=0"
+			}
+		],
+		"BlackPink": [
+			{
+				"title": "Flower - Jisoo",
+				"source": "https://archive.org/download/y-2mate.com-jisoo-flower-mv_202308/y2mate.com%20-%20JISOO%20%20%EA%BD%83FLOWER%20MV.mp3",
+				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUP04RUsrKc9_uNhDbV8FU9rwCiIfQcFs2Q&usqp=CAU"
+			}
+		],
+		"Fifty Fifty": [
+			{
+				"title": "Cupid",
+				"source": "https://archive.org/download/20230416_20230416_1609/01%20Cupid.m4a",
+				"cover": "https://ia600302.us.archive.org/29/items/20230416_20230416_1609/5054197636479.jpg"
+			},
+			{
+				"title": "Cupid (twin ver.)",
+				"source": "https://archive.org/download/20230416_20230416_1609/02%20Cupid%20%28Twin%20Ver.%29.m4a",
+				"cover": "https://ia600302.us.archive.org/29/items/20230416_20230416_1609/5054197636479.jpg"
+			}
+		]
+	}
+}

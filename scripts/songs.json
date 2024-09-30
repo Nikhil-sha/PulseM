@@ -127,6 +127,13 @@
 				"source": "https://archive.org/download/TiktokSongs2023/DuncanLaurence-Arcade%28LyricVideo%29_264.m4a",
 				"cover": "https://upload.wikimedia.org/wikipedia/en/2/2f/Arcade_%28Duncan_Laurence_song%29.png"
 			}
+		],
+		"Ed Sheeran": [
+			{
+				"title": "Galway Girl",
+				"source": "https://archive.org/download/y-2mate.com-ed-sheeran-galway-girl-official-music-video/y2mate.com%20-%20Ed%20Sheeran%20%20Galway%20Girl%20Official%20Music%20Video.mp3",
+				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdPbvZB6DzOkZhZKFEeR12KihAWbemwMmZuQauf4kmUDfInK-niY3SQmuo&s=10"
+			}
 		]
 	}
 }

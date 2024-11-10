@@ -51,6 +51,13 @@
 				"cover": "https://upload.wikimedia.org/wikipedia/en/3/3c/Kesariya_song_cover.jpg"
 			}
 		],
+		"DJ Snake": [
+			{
+				"title": "Let Me Love You (ft. Justin Bieber)",
+				"source": "https://ia801503.us.archive.org/20/items/y-2mate.com-dj-snake-let-me-love-you-ft-justin-bieber-official-video/y2mate.com%20-%20DJ%20Snake%20%20Let%20Me%20Love%20You%20ft%20Justin%20Bieber%20Official%20Video.mp3",
+				"cover": "https://upload.wikimedia.org/wikipedia/en/a/a5/DJSnakeLetMeLoveYou.jpg"
+			}
+		],
 		"Anuv Jain": [
 			{
 				"title": "Husn",
@@ -107,6 +114,13 @@
 				"title": "Cruel Summer",
 				"source": "https://archive.org/download/y-2mate.com-taylor-swift-cruel-summer-official-audio/y2mate.com%20-%20Taylor%20Swift%20%20Cruel%20Summer%20Official%20Audio.mp3",
 				"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1r0WXAYQOwbRFkHxO1qHYtz8zn85TesQIA&usqp=CAU"
+			}
+		],
+		"Sabrina Carpenter": [
+			{
+				"title": "Espresso",
+				"source": "https://ia800303.us.archive.org/34/items/sabrina-carpenter-espresso-official-audio_202404/Sabrina%20Carpenter%20-%20Espresso%20%28Official%20Audio%29.mp3",
+				"cover": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Espresso_%28Sabrina_Carpenter_logo%29.png"
 			}
 		],
 		"Aespa": [

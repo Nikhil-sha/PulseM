@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function loadArtists() {
         const artists = Object.keys(songData.songs || {});
         artistList.innerHTML = artists.map(artist =>
-            `<li class="font-sm p-2 bg-gray-100 rounded hover:bg-gray-200 cursor-pointer" data-artist="${artist}">
+            `<li class="font-xs p-2 bg-gray-50 rounded hover:bg-gray-100 cursor-pointer" data-artist="${artist}">
                 <i class="fas fa-user mr-2"></i>${artist}
             </li>`
         ).join('');
@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Function to display the songs list
     function displaySongs() {
         songList.innerHTML = songs.map((song, index) =>
-            `<li class="font-sm p-2 bg-gray-100 rounded hover:bg-gray-200 cursor-pointer" data-index="${index}">
+            `<li class="font-sm p-2 bg-gray-50 rounded hover:bg-gray-100 cursor-pointer" data-index="${index}">
                 <i class="fas fa-music mr-2"></i>${song.title}<a class="float-end" href="${song.source}"><i class="fas fa-download"></i></a>
             </li>`
         ).join('');

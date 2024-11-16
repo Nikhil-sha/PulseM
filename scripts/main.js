@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function loadArtists() {
         const artists = Object.keys(songData.songs || {});
         artistList.innerHTML = artists.map(artist =>
-            `<li class="text-xs p-2 bg-gray-50 rounded hover:bg-gray-100 cursor-pointer" data-artist="${artist}">
+            `<li class="text-sm p-2 bg-gray-50 rounded hover:bg-gray-100 cursor-pointer" data-artist="${artist}">
                 <i class="fas fa-user mr-2"></i>${artist}
             </li>`
         ).join('');

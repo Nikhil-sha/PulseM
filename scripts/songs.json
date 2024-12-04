@@ -1,5 +1,12 @@
 {
 	"songs": {
+		"Nikhil Sharma": [
+			{
+				"title": "Places To Go (The Highway - remastered) ft. Suno AI",
+				"source": "/PulseM/assets/mp3/Places-To-Go.mp3",
+				"cover": "https://picsum.photos/128"
+			}
+		],
 		"Coldplay": [
 			{
 				"title": "Hymn For The Weekend",

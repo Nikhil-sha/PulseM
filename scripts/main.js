@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function displaySongs() {
         songList.innerHTML = songs.map((song, index) =>
             `<li class="text-sm p-2 bg-gray-50 rounded hover:bg-gray-100 cursor-pointer" data-index="${index}">
-                <i class="fas fa-music mr-2"></i>${song.title}<a class="float-end" href="${song.source}"><i class="fas fa-download"></i></a>
+                <i class="fas fa-music mr-2"></i>${song.title}
             </li>`
         ).join('');
 
